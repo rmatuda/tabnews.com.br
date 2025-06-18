@@ -1048,3 +1048,4 @@ const reservedUsernames = [
   'vagas',
   'videos',
 ];
+export { checkReservedUsernames };
